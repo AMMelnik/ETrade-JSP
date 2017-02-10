@@ -28,7 +28,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="E-Trade" target="1.8" />
-      <module name="E-Trade-JSP" target="1.8" />
+      <module name="E-Trade-JSP" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
